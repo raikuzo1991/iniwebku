@@ -43,10 +43,9 @@ body{
      display:block;
 }
 
-.jarak {
-    padding:0 2px;
+.jarak{
+     padding:0 2pc;
 }
-
 .content {
     width: 90%;
     margin: auto;
